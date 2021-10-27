@@ -1,5 +1,5 @@
 
 ## Getting Started
 
-Primeiro projeto com html e css;
+First project with Html and Css;
 
