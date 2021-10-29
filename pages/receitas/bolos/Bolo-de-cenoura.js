@@ -19,8 +19,8 @@ export default function boloDeCenoura(){
                     <li>2 e 1/2 xícaras (chá) de farinha de trigo</li>
                     <li>1 colher(sopa) de fermento em pó</li>
                 </ul>
-                <ul>
                 <h3>Cobertura</h3>
+                <ul>
                     <li>1 colher(sopa) de manteiga</li>
                     <li>3 colheres (sopa) de chocolate em pó</li>
                     <li>1 xícara (chá) de açúcar</li>
