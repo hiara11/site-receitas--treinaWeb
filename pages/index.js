@@ -17,13 +17,13 @@ export default function Index(){
             name="Bolo de cenoura"
             category="Bolos"
             picture="https://w7.pngwing.com/pngs/927/160/png-transparent-carrot-cake-twilight-sparkle-food-birthday-cake-pound-cake-cartoon-sandwich-food-orange-cutie-mark-crusaders-thumbnail.png"
-            link="/receitas/bolos/Bolo-de-cenoura"
+            link="/receitas/bolos/BoloCenoura"
           />
            <RecipeCard 
             name="Bolinho de chuva"
             category="café da tarde"
             picture="https://vovopalmirinha.com.br/wp-content/uploads/2020/03/vovo-palmirinha-bolinho-de-chuva-702x336.jpg"
-            link="/receitas/cafeTarde/Bolinho-de-chuva"
+            link="/receitas/cafeTarde/BolinhoChuva"
           /> 
           <RecipeCard  
           name="Molho branco"
